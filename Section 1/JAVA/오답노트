@@ -1,0 +1,16 @@
+- 17번
+```java
+대소문자를 구분하지 않고 서로 같은 알파벳인지를 리턴하는 문제
+public class Solution { 
+    public boolean compareOnlyAlphabet(String str1, String str2) {
+    return str1.toLowerCase().equals(str2.toLowerCase());
+        /* 레퍼런스 코드2 (위의 코드를 한줄씩 나누는 버전)
+        String lowerStr1 = str1.toLowerCase();
+        String lowerStr2 = str2.toLowerCase();
+        return lowerStr1.equals(lowerStr2);
+         */
+//        레퍼런스코드3 (대소문자 상관없이 비교하는 함수)
+//        return str1.equalsIgnoreCase(str2);
+    } 
+}
+```
