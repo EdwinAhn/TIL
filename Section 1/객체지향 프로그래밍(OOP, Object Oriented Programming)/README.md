@@ -35,8 +35,8 @@ Ex) 사람모양의 게임 캐릭터를 만들고 싶다고 가정해보자.
 (클래스와 함께 쓰인다고 가정하면) 클래스의 정의된 설계 내용에 따라 그 속성과 기능을 가지고 생성된 어떠한 것(객체).
 <br><br>
 Ex) 설계도(클래스)를 가지고 그 속성과 기능을 따라 각각의 집(객체)이 만들어진다.
-<br>![설계도와 집]()
-<br>![붕어빵 틀과 붕어빵]()
+<br>![설계도와 집](https://github.com/Luxahn/TIL/blob/main/img/58317pr3m4h3fbkz9bfu.png)
+<br>![붕어빵 틀과 붕어빵](https://github.com/Luxahn/TIL/blob/main/img/%E1%84%87%E1%85%AE%E1%86%BC%E1%84%8B%E1%85%A5%E1%84%88%E1%85%A1%E1%86%BC.png)
 <br><br>
 이렇게 클래스를 통해 생성된 객체를 인스턴스(instance)라고 한다.
 <br><br>
@@ -122,7 +122,8 @@ public class Basic_OOP_Practice {
 ```
 
 
-![출력된 값]()
+![출력된 값](https://github.com/Luxahn/TIL/blob/main/img/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202022-05-11%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%204.07.44.png
+)
 <br><br><br>
 
 ### 추가 설명
