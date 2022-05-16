@@ -3,7 +3,7 @@
 <br><br>
 
 이처럼 OOP에서의 캡슐화는 특정 객체 안에 관련된 속성과 기능을 하나의 캡슐로 만들어 데이터를 외부로부터 보호하고, 외부 또한 불필요한 변경으로부터 보호하기 위해 사용된다.
-![캡슐화이미지]()
+![캡슐화이미지](https://github.com/Luxahn/TIL/blob/main/img/Encapsulation-illustration-with-capsule.png)
 <br><br>
 
 **목적**
