@@ -244,7 +244,7 @@ for (Horse horse : horse) {
     // Black Horse is running
 ```
 
-## super()와 super 키워드 (this, this()파일에 함께 넣자.)
+## super()와 super 키워드
 
 this() 메서드는 같은 클래스의 다른 생성자를 호출하는데 사용되는 메서드이고(생성자 안에서만 사용 가능하고, 반드시 생성자의 첫줄에 위치해야 함.) <br>
 this는 자기 객체를 가리키는 참조 변수명이다.
