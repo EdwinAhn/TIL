@@ -54,14 +54,14 @@ System.out.println(i) ;        =>.   (int i) -> System.ot.println(i)
 ```
 
 <br><br><br>
-```
+```java
 @FunctionalInterface // 함수형 인터페이스는 단 하나의 추상 메서드만 가져야 함.
 interface myFunction {
     public abstract int max(int a, int b);
    // public abstract int max2(int a, int b); 
     // @FunctionalInterface를 붙이면 myFunction이 함수형 인터페이스라는 뜻이다.
     // 그렇기 때문에 추상 메서드를 두 개 붙이면 에러가 뜬다.
-    ```
+```
     
     
    <br><br><br><br>
