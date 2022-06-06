@@ -6,7 +6,7 @@
 ![캡슐화이미지](https://github.com/Luxahn/TIL/blob/main/img/Encapsulation-illustration-with-capsule.png)
 <br><br>
 
-**목적**
+### 목적
 - 데이터 보호
 - 내부적으로만 사용되는 데이터에 대한 불필요한 외부 노출을 막기 위해
 - 정보 은닉(Data Hiding)
