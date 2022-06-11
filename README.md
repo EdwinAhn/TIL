@@ -19,3 +19,7 @@ Today I Learned
 
 ### JAVA
 - [JAVA](https://github.com/Luxahn/TIL/tree/main/Section%201/JAVA)
+
+
+### DATABASE
+- [SQL](https://github.com/Luxahn/TIL/blob/main/DATABASE/SQL/SQL%EC%9D%B4%EB%9E%80.md)
