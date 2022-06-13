@@ -49,7 +49,7 @@ WHERE JOB_ID = IT_PROG;  // JOB_ID가 IT_PROG인 데이터들을
  
 
 ![클라이언트-서버-데이터베이스 관계 (Three Tier Architecture)](https://blog.kakaocdn.net/dn/lZd9g/btrEn9dyGtM/fSMhoGZKr8Jk3hipLIKLqK/img.png)
-클라이언트-서버-데이터베이스 관계 (Three Tier Architecture)
+<br>클라이언트-서버-데이터베이스 관계 (Three Tier Architecture)
  <br><br><br>
 
 # SQL 명령어 모음
